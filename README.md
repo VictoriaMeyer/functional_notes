@@ -1,4 +1,4 @@
-# Notes - Functional Programming with Python - EuroPython 2019
+# Functional Programming with Python - EuroPython 2019
 
 ## Introduction
 
