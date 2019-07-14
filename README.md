@@ -21,7 +21,7 @@ Please install toolz:
 pip install toolz
 ```
 ### IDE/Editor
-You are free to use any IDE or editor you are comfortable with. I use JupyterLab because it makes a great learning tool.
+I use JupyterLab because it is a great learning tool.
 You can install it with pip:
 ```
 pip install jupyterlab
